@@ -1,0 +1,31 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.maindiv
+{
+    background-color: firebrick;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.maindiv h1
+{
+    font-size: 5rem;
+}
+
+.maindiv p
+{
+    font-size: 2rem;
+}
+
+.upper
+{
+    background-color: firebrick;
+}
